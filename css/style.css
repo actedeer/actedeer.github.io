@@ -871,9 +871,9 @@ a {
 }
 #header .header-nav .social .Telegram {
   background: url("/img/Telegram.png") center no-repeat #fff;
-  -webkit-background-size: 0%;
-  -moz-background-size: 0%;
-  background-size: 0%;
+  -webkit-background-size: 70%;
+  -moz-background-size: 70%;
+  background-size: 70%;
 }
 #header .header-nav .social .Quora {
   background: url("/img/Quora.png") center no-repeat #b92b27;
