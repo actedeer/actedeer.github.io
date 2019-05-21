@@ -7,9 +7,15 @@
       <link href="/2019/05/21/%E6%B0%B8%E8%BF%9C%E7%BD%AE%E9%A1%B6%E7%9A%84%E9%9F%B3%E4%B9%90%E8%A1%A8%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E8%AE%B0%E5%BD%95%E5%B0%8F%E9%B9%BF%E6%9C%80%E5%96%9C%E7%88%B1%E7%9A%84%E6%AD%8C%E5%8D%95/"/>
       <url>/2019/05/21/%E6%B0%B8%E8%BF%9C%E7%BD%AE%E9%A1%B6%E7%9A%84%E9%9F%B3%E4%B9%90%E8%A1%A8%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E8%AE%B0%E5%BD%95%E5%B0%8F%E9%B9%BF%E6%9C%80%E5%96%9C%E7%88%B1%E7%9A%84%E6%AD%8C%E5%8D%95/</url>
       
-        <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">编号</th><th style="text-align:center">歌名</th><th style="text-align:center">歌手</th><th style="text-align:center">备注</th></tr></thead><tbody><tr><td style="text-align:center">01</td><td style="text-align:center"><a href="https://music.163.com/song?id=691506&amp;userid=88623079" target="_blank" rel="noopener">秋姉妹のなく頃に <br> in the autumn sky</a></td><td style="text-align:center"><a href="orpheus://orpheus/pub/app.html#/m/artist/?id=18585" title="ばんばんしー" target="_blank" rel="noopener">ばんばんしー</a></td><td style="text-align:center">没有文本</td></tr><tr><td style="text-align:center">02</td><td style="text-align:center">短文本</td><td style="text-align:center">中等文本</td><td style="text-align:center">没有文本</td></tr></tbody></table><p><style>table th:first-of-type { width: 100px;}</style>&lt;!– 下方是表格的 Markdown 语法 –!&gt;名称|值|备注—|—|—</p>]]></content>
+        <content type="html"><![CDATA[<table><thead><tr><th style="text-align:center">编号</th><th style="text-align:center">歌名</th><th style="text-align:center">歌手</th><th style="text-align:center">备注</th></tr></thead><tbody><tr><td style="text-align:center">01</td><td style="text-align:center"><a href="https://music.163.com/song?id=691506&amp;userid=88623079" target="_blank" rel="noopener">秋姉妹のなく頃に <br> in the autumn sky</a></td><td style="text-align:center"><a href="orpheus://orpheus/pub/app.html#/m/artist/?id=18585" title="ばんばんしー" target="_blank" rel="noopener">ばんばんしー</a></td><td style="text-align:center"><a href="orpheus://orpheus/pub/app.html#/m/album/?id=67008" title="秋満开の风に舞う" target="_blank" rel="noopener">秋満开の风に舞う</a></td></tr></tbody></table>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 音乐 </tag>
+            
+        </tags>
       
     </entry>
     
